@@ -8,6 +8,7 @@ Modificar un archivo y agregarlo al repositorio como un nuevo commit
 
 ### Branches
 Creamos un branch acerca de las charlas, y decimos que nos parecen buenísimas
+<<<<<<< HEAD
 Pasos con los que armamos el repo de github de HOgit.
 
 
@@ -121,4 +122,6 @@ y el push
 git push
 ```
 
-AGREGO ULTIMA LINEA FJH 27-02-2018
+
+MODIFICADO POR FJH SOBRE LA RAMA CHARLAS
+>>>>>>> charlas
